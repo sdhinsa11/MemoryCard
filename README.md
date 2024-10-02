@@ -9,6 +9,12 @@
 6. Add functionality when clicked
 7. Add the total score/best score - when clicking on card  
 
+API: https://github.com/Nickomang/nhl-api?tab=readme-ov-file#contributing
+API: https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/teams
+API: https://pypi.org/project/espn-api/
+https://www.npmjs.com/package/@nhl-api/teams
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
