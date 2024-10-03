@@ -5,6 +5,14 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <header>
+        <h1>Memory Game</h1>
+        <p>
+          <a href="https://github.com/sdhinsa11">
+          <img src="github.svg" alt="My Github SVG" />
+          </a>
+        </p>
+      </header>
     <App />
   </StrictMode>,
 )
